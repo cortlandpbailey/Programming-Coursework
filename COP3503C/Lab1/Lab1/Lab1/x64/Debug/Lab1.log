@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+C:\Users\baile\Dropbox\COP3503C\Lab1\Lab1\Lab1\Lab1.cpp(60,36): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\baile\Dropbox\COP3503C\Lab1\Lab1\Lab1\Lab1.cpp(85,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\Dropbox\COP3503C\Lab1\Lab1\Lab1\Lab1.cpp(86,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab1.vcxproj -> C:\Users\baile\Dropbox\COP3503C\Lab1\Lab1\x64\Debug\Lab1.exe

@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5621,5): error MSB3491: Could not write lines to file "x64\Debug\Lab5.vcxproj.FileListAbsolute.txt". The requested operation cannot be performed on a file with a user-mapped section open.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5621,5): error MSB3491: 

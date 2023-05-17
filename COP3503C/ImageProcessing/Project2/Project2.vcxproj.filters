@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="output\part1.tga" />
+    <Image Include="examples\EXAMPLE_part1.tga" />
+    <Image Include="examples\EXAMPLE_part2.tga" />
+    <Image Include="examples\EXAMPLE_part3.tga" />
+    <Image Include="examples\EXAMPLE_part4.tga" />
+    <Image Include="examples\EXAMPLE_part5.tga" />
+    <Image Include="examples\EXAMPLE_part6.tga" />
+    <Image Include="examples\EXAMPLE_part7.tga" />
+    <Image Include="examples\EXAMPLE_part8_b.tga" />
+    <Image Include="examples\EXAMPLE_part8_g.tga" />
+    <Image Include="examples\EXAMPLE_part8_r.tga" />
+    <Image Include="examples\EXAMPLE_part9.tga" />
+    <Image Include="examples\EXAMPLE_part10.tga" />
+    <Image Include="input\car.tga" />
+    <Image Include="input\circles.tga" />
+    <Image Include="input\layer_blue.tga" />
+    <Image Include="input\layer_green.tga" />
+    <Image Include="input\layer_red.tga" />
+    <Image Include="input\layer1.tga" />
+    <Image Include="input\layer2.tga" />
+    <Image Include="input\pattern1.tga" />
+    <Image Include="input\pattern2.tga" />
+    <Image Include="input\text.tga" />
+    <Image Include="input\text2.tga" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="src\readme.txt" />
+  </ItemGroup>
+</Project>
